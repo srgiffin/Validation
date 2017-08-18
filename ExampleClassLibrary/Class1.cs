@@ -6,5 +6,6 @@ namespace ExampleClassLibrary
     {
         //Screw you git
         //Update2
+        //Update3
     }
 }
